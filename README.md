@@ -2,7 +2,9 @@
 Job search app project
 DESCRIPTION:
     Viewing available jobs, or applying for the job at the agency is currently done manually where in the job seekers has to go to the agency and check the available jobs at the agency. Job seekers check the list of jobs available and apply the job if the job is not available otherwise it is of waste for the job seeker to come to the agency to come to check for the job if the job seeker doesn’t get the job. Then the agency will show available jobs for the job seeker for his qualifications and the then updates the jobs database. This takes at least one to two hours if the job seeker is available at the near by place otherwise it may take more time.
-   REQUIREMENTS:
+
+REQUIREMENTS:
+
 SOFTWARE REQUIREMENT
    Technologies to be used:
         1. Technologies: Android (Java)
@@ -11,7 +13,8 @@ SOFTWARE REQUIREMENT
    Other Requirements:
         1. Operating System: Windows, Linux
         2. Browsers: Edge, Chrome, Mozilla Firefox
-HARDWARE REQUIREMENT
+        
+ HARDWARE REQUIREMENT
          1.Intel Core i3 Processor or higher
          2.8 GB RAM or above
          3.Color SVGA 
