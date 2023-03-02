@@ -9,22 +9,34 @@ REQUIREMENTS:
 SOFTWARE REQUIREMENT
 
 Technologies to be used:
-        1. Technologies: Android (Java)
-        2. IDE: Android Studio
-        3. Database: SQLite
+
+1. Technologies: Android (Java)
+
+2. IDE: Android Studio
+
+3. Database: SQLite
         
 Other Requirements:
-        1. Operating System: Windows, Linux
-        2. Browsers: Edge, Chrome, Mozilla Firefox
+
+1. Operating System: Windows, Linux
+
+2. Browsers: Edge, Chrome, Mozilla Firefox
         
 HARDWARE REQUIREMENT
-         1.Intel Core i3 Processor or higher
-         2.8 GB RAM or above
-         3.Color SVGA 
-         4.120 GB Hard Disk space
-         5.Android Supported Smart Phone
+
+1.Intel Core i3 Processor or higher
+
+2.8 GB RAM or above
+
+3.Color SVGA 
+
+4.120 GB Hard Disk space
+
+5.Android Supported Smart Phone
          
- DONE BY: SANGAVI.R
-          DEEBIKA.S
-          MOULIKA.A.K
-          SNEGA.S
+ DONE BY: 
+ 
+ SANGAVI.R
+ DEEBIKA.S
+ MOULIKA.A.K
+ SNEGA.S
