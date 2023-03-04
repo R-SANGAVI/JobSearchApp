@@ -1,9 +1,11 @@
 # JobSearchApp
 Job search app project
 
-DESCRIPTION:
-    
-    This project is aimed at developing a web site for Online Job Portal. It is of great importance to the unemployed people.  The site developed will allocate the right job information for suitable persons. All the jobseekers as well as job providers’ information are to be stored in the database.
+DESCRIPTION:               
+   
+   This project is aimed at developing a web site for Online Job Portal. It is of great importance to the unemployed people.  The site developed will allocate the 
+   
+right job information for suitable persons. All the jobseekers as well as job providers’ information are to be stored in the database.
 
 REQUIREMENTS:
 
